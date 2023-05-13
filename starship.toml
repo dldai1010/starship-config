@@ -7,7 +7,7 @@ $username\
 $hostname\
 $directory\
 $sudo\
-$line_break\ 
+$line_break\
 $character\
 $cmd_duration"""
 
